@@ -1,6 +1,6 @@
 // Change this to any private word. Type the same word into the app's
 // "Sheet sync settings" so only your app can write to your sheet.
-const SECRET = 'DJSCE';
+const SECRET = 'Private Security Word';
 
 function doPost(e) {
   try {
